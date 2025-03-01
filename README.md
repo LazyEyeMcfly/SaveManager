@@ -1,6 +1,7 @@
 Overview
 
 Save Manager V3 is a modern, multi-game save file backup and restoration tool. Built with customtkinter, it provides a sleek, user-friendly interface to manage game saves efficiently.
+
 Features:
 
     Select from a list of supported games.
@@ -18,17 +19,18 @@ Supported Games
     Baldur's Gate 3
 
 Users can manually add support for additional games by specifying their save and backup directories.
-Installation
-Requirements:
+
+Installation Requirements:
 
     Python 3.8+
-    Install dependencies:
+    
+Install dependencies:
 
     pip install customtkinter
 
 Running the Application:
 
-python save_manager_v3.py
+    python save_manager_v3.py
 
 Usage Guide
 
